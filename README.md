@@ -9,7 +9,7 @@
 
 - 📫 Reach me via [email](mailto:wishwa.perera.93@gmail.com)
 
-- 📄 Know about my experiences [wishwa.lk](wishwa.lk)
+- 📄 Know about my experiences [wishwa.lk](https://wishwa.lk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
