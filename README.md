@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wishperera&label=Profile%20views&color=0e75b6&style=flat" alt="wishperera" /> </p>
 
-- 🔭 I’m currently working at [Eleven Sports](https://welkom.elevensports.be/)
+- 🔭 I’m currently working at [FLYR](https://flyr.com/)
 
 - 🌱 I’m currently learning **Rust**
 
